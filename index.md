@@ -1,4 +1,4 @@
-### Self-paced sample content
+### Self-paced sample content: Getting started with Big Data and Apache Spark
 
 [Dark theme](https://metacognetix.github.io/elearning/no-controls-dark.html)  
 [Dark with transcript](https://metacognetix.github.io/elearning/no-controls-with-transcript.html)  
@@ -7,5 +7,5 @@
 
 ---  
 
-[Testing 1](https://metacognetix.github.io/elearning/deck1.html)  
-[Testing 2](https://metacognetix.github.io/elearning/deck2.html)  
+[Recording](https://metacognetix.github.io/getting-started-with-apache-spark.mp4)  
+
